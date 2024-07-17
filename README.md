@@ -15,10 +15,9 @@ Expert in the latest technologies like Blockchain (Web3) and 3rd party libraries
     - Application Security
     - 2D and 3D Models(three.js)
     - Fraud detection techniques
+    - Oracle Customers Managements
+    - Reactjs
     
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
